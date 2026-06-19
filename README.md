@@ -1,8 +1,10 @@
-#Project Report Structure
-##Dataset Introduction
-###Dataset Name : Bank Marketing Dataset
+Project Report Structure
 
-###Source
+Dataset Introduction
+
+Dataset Name : Bank Marketing Dataset
+
+Source
 
 UCI Machine Learning Repository – Bank Marketing Dataset
 URL:https://archive.ics.uci.edu/dataset/222/bank+marketing
